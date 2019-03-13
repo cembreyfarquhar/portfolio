@@ -7,6 +7,7 @@ const StyledHomePage = styled.div`
   grid-template-columns: repeat(21, 1fr);
   grid-template-rows: repeat(21, 1fr);
   height: 100%;
+  width: 100%;
 `;
 
 const HomePage = () => (
